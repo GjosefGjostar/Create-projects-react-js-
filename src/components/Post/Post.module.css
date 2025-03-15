@@ -1,0 +1,14 @@
+
+.item {
+	color: aqua;
+	padding-left: 20px;
+}
+
+.hi {
+	padding-left: 20px;
+}
+
+.avatar {
+	width: 50px;
+	border-radius: 50px;
+}
