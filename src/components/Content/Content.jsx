@@ -10,8 +10,8 @@ const Cont = (props) => {
 		</div>
 		<div>ava + description</div>
 		<div>My post</div>
-	   <Post hi='Hi my fraind. I like big pencil ' />
-		<Post hi='I also love big pencil' />
+	   <Post hi='Hi my fraind  ' />
+		<Post hi='I also ' />
 		</div>
 	)
 }

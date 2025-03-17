@@ -4,8 +4,13 @@
 	background-color: green;
  }
 
- .item {
+ .item a {
 	color: white;
 	padding-left: 20px;
 	padding-top: 5px;
+	text-decoration: none;
+ }
+
+ .item a.active {
+	color: blue;
  }
