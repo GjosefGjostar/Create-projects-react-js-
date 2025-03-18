@@ -2,6 +2,7 @@
 .item {
 	color: aqua;
 	padding-left: 20px;
+	padding-top: 10px;
 }
 
 .hi {
@@ -11,4 +12,11 @@
 .avatar {
 	width: 50px;
 	border-radius: 50px;
+}
+
+
+
+.like {
+	color: red;
+	padding: 10px;
 }

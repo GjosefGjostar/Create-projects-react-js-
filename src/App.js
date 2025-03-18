@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header'
-import Nav from './components/Nav/nav';
+import Nav from './components/Nav/Nav/nav';
 import Cont from './components/Content/Content';
-import Dialogs from './components/Dialogs/Dialogs';
+import Dialogs from './components/Nav/Dialogs/Dialogs';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import News from './components/News/News';
-import Music from './components/Music/Music';
-import Settings from './components/Settings/Settings';
+import News from './components/Nav/News/News';
+import Music from './components/Nav/Music/Music';
+import Settings from './components/Nav/Settings/Settings';
 
 
 
